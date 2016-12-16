@@ -1,1 +1,9 @@
 C:\Users\mark.heaver\Desktop\personal\WealthKernel\WealthKernelMaze\WealthKernelMaze\bin\Debug\WealthKernelMaze.exe.config
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\bin\Debug\WealthKernelMaze.exe.config
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\bin\Debug\WealthKernelMaze.exe
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\bin\Debug\WealthKernelMaze.pdb
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\bin\Debug\MathNet.Numerics.dll
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\bin\Debug\MathNet.Numerics.xml
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\obj\Debug\WealthKernelMaze.csprojResolveAssemblyReference.cache
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\obj\Debug\WealthKernelMaze.exe
+C:\Git\WealthKernel\WealthKernelMaze\WealthKernelMaze\obj\Debug\WealthKernelMaze.pdb
